@@ -2,4 +2,4 @@
 desafio de projeto sobre git\giyhub
 
 ## links úteis
-[Sintaxe Basica Markdown] (https://markdown.net.br/sintaxe-basica/)
+[Sintaxe Basica Markdown](https://markdown.net.br/sintaxe-basica/)
